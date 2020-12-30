@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react-native-screens": "~2.10.1",
+    "@react-navigation/stack": "*",
+    "react-native-reanimated": "~1.13.0",
+    "@react-navigation/drawer": "*",
+    "@react-navigation/native": "*",
+    "react-native-gesture-handler": "~1.7.0",
+    "@react-native-community/masked-view": "0.1.10"
+  }
+}
